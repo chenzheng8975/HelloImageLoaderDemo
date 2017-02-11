@@ -8,7 +8,7 @@
 
 ### Screenshot
 
-<img src="https://raw.githubusercontent.com/chenzheng8975/HelloImageLoaderDemo/master/screenshots/1.gif" alt="screenshot" title="home" width="270" height="486" />
+<img src="https://raw.githubusercontent.com/chenzheng8975/HelloImageLoaderDemo/master/screenshots/1.gif" alt="screenshot"/>
 
 ### Dependency
 
