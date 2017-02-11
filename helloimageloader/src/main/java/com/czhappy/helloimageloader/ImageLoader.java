@@ -41,7 +41,7 @@ public class ImageLoader {
     }
 
     /**
-     * 加载网络图片方法
+     * 加载网络图片
      * @param mImageView
      * @param url
      */
