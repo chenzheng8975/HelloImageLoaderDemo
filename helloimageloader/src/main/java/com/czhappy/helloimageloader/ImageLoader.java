@@ -40,6 +40,11 @@ public class ImageLoader {
         mNetCacheUtils=new NetCacheUtils(mLocalCacheUtils,mMemoryCacheUtils);
     }
 
+    /**
+     * 加载网络图片
+     * @param mImageView
+     * @param url
+     */
     public void loadImageView(ImageView mImageView, String url) {
         mImageView.setImageResource(R.drawable.empty_photo);
         if(Utils.isEmpty(url)){
